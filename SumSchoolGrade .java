@@ -3,7 +3,7 @@ Q10) Faça um programa que possua o método "mediaDeNotas()" que imprima a médi
 	double notas[] = {7.9, 6.4, 3.8, 9.7, 5.6, 10.0, 7.2, 6.5, 6.8, 8.7, 4.3, 7.3, 8.0, 7.0};
 */
 
-class Q10 {
+class SumSchoolGrade  {
 
 	static double schoolGrade[] = {7.9, 6.4, 3.8, 9.7, 5.6, 10.0, 7.2, 6.5, 6.8, 8.7, 4.3, 7.3, 8.0, 7.0};
 	
